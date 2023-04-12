@@ -3,7 +3,7 @@
 <h2> 프로젝트 이름 : 펫과 함께 </h2>
 
 <ul>
-    <li><a href=""> 트러블 슈팅 </a></li>
+    <li><a href="https://github.com/timeiscoal/pet_with_me/wiki/%ED%8A%B8%EB%9F%AC%EB%B8%94-%EC%8A%88%ED%8C%85"> 트러블 슈팅 </a></li>
 </ul>
 
 <br />
