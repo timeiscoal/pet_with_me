@@ -1,4 +1,4 @@
-<h1> 펫과 함께 </h1>
+<h1><개인프로젝트> 펫과 함께 </h1>
 
 <h2> 프로젝트 이름 : 펫과 함께 </h2>
 
@@ -77,6 +77,7 @@
                 <li><img src="https://user-images.githubusercontent.com/113073492/231358866-2b9eead4-5fe0-46eb-823a-843abe3ac547.gif"></li>
             </ul>
         </li>
+        <li>테스트 코드</li>
     </ol>
     <br/>
 <hr/>
