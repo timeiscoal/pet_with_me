@@ -77,7 +77,6 @@
                 <li><img src="https://user-images.githubusercontent.com/113073492/231358866-2b9eead4-5fe0-46eb-823a-843abe3ac547.gif"></li>
             </ul>
         </li>
-        <li>테스트 코드</li>
     </ol>
     <br/>
 <hr/>
